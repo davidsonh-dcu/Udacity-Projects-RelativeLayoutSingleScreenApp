@@ -1,2 +1,2 @@
 # Udacity-Projects-RelativeLayoutSingleScreenApp
-# Module 1.User Interface Project: Single Screen App
+# Module 2.User Interface Project: Single Screen App
