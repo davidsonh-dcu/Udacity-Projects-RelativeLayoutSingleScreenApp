@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Linear Layout Single Screen App</string>
+    <string name="business_name">Coogan\'s Hardware</string>
+    <string name="business_image" >photo of business</string>
+    <string name="label_opening_hours">Opening Hours</string>
+    <string name="opening_hours_details">Mon: 08:00 - 18:00\nTue: 8:00 - 18:00\nWed: 8:00 - 18:00\nThurs: 8:00 - 18:00\nFri: 8:00 - 18:00\nSat: 8:00 - 18:00\nSun: CLOSED</string>
+    <string name="label_contact_us">Contact Us</string>
+    <string name="address_1">Lugduff\nTinahely\nCo. Wicklow\nY14 NY30</string>
+    <string name="address_2">Tinahely</string>
+    <string name="address_3">Co. Wicklow</string>
+    <string name="address_4">Y14 NY30</string>
+    <string name="mon_opening_hours">Mon 08:00 - 18:00</string>
+    <string name="tue_opening_hours">Tue 08:00 - 18:00</string>
+    <string name="wed_opening_hours">Wed 08:00 - 18:00</string>
+    <string name="thur_opening_hours">Thurs 08:00 - 18:00</string>
+    <string name="fri_opening_hours">Fri 08:00 - 18:00</string>
+    <string name="sat_opening_hours">Sat 08:00 - 18:00</string>
+    <string name="sun_opening_hours">CLOSED</string>
+    <string name="label_about_us">About Us</string>
+    <string name="phone">(0402) 38111</string>
+    <string name="phone_icon">phone_icon</string>
+    <string name="email">info@cooganhardware.com</string>
+    <string name="email_icon" >email icon</string>
+    <string name="about_us" translatable="false">We are a family run hardware store that has been trading since 2000. Our team is an exciting combination of young and experienced staff, whose collective knowledge of the building, DIY and general hardware trades will ensure you get the best possible service.</string>
+    <string name="location_icon" >location icon</string>
+</resources>

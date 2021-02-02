@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="openinghoursTextView" type="id" />
+    <item name="businesshoursdetailsTextView" type="id" />
+    <item name="contactuslabelTextView" type="id" />
+    <item name="locationImageView" type="id" />
+    <item name="addressTextView" type="id" />
+    <item name="phoneImageView" type="id" />
+    <item name="phoneTextView" type="id" />
+    <item name="email_imageView" type="id" />
+    <item name="emailTextView" type="id" />
+    <item name="aboutuslabelTextView" type="id" />
+    <item name="about_usTextView" type="id" />
+</resources>
